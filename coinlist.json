@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "60ead223d1a72aad111fc5ab"
+  },
+  "coin_name": "cardano",
+  "usd_price": 1.34,
+  "usd_market_cap": 43056756145.540825,
+  "usd_24Hr_vol": 890041997.2739189,
+  "usd_24h_change": 0.92,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:42:32Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead223d1a72aad111fc5ac"
+  },
+  "coin_name": "dogecoin",
+  "usd_price": 0.210101,
+  "usd_market_cap": 27395783310.559967,
+  "usd_24Hr_vol": 1348234367.1717558,
+  "usd_24h_change": -1.33,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:42:28Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead223d1a72aad111fc5ad"
+  },
+  "coin_name": "bitcoin",
+  "usd_price": 33824,
+  "usd_market_cap": 634325727947.9249,
+  "usd_24Hr_vol": 18259091283.329227,
+  "usd_24h_change": 0.46,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:42:20Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead223d1a72aad111fc5ae"
+  },
+  "coin_name": "ethereum",
+  "usd_price": 2125.63,
+  "usd_market_cap": 247976718155.98453,
+  "usd_24Hr_vol": 16205998085.943699,
+  "usd_24h_change": 1.4,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:42:24Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead5ec579c0da2ea55822c"
+  },
+  "coin_name": "cardano",
+  "usd_price": 1.34,
+  "usd_market_cap": 42940990211.41585,
+  "usd_24Hr_vol": 894963214.4789729,
+  "usd_24h_change": 0.68,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:58:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead5ec579c0da2ea55822d"
+  },
+  "coin_name": "ethereum",
+  "usd_price": 2129.06,
+  "usd_market_cap": 247926584208.44662,
+  "usd_24Hr_vol": 16162310079.26084,
+  "usd_24h_change": 1.27,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:58:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead5ec579c0da2ea55822e"
+  },
+  "coin_name": "dogecoin",
+  "usd_price": 0.210308,
+  "usd_market_cap": 27389150918.694515,
+  "usd_24Hr_vol": 1335489417.9893436,
+  "usd_24h_change": -1.61,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:58:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ead5ec579c0da2ea55822f"
+  },
+  "coin_name": "bitcoin",
+  "usd_price": 33868,
+  "usd_market_cap": 633982510085.5071,
+  "usd_24Hr_vol": 18190004542.239502,
+  "usd_24h_change": 0.31,
+  "last_updated_at": {
+    "$date": "2021-07-11T16:58:19Z"
+  }
+}]
